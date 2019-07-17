@@ -1,0 +1,45 @@
+{
+    "1" : {
+        "id"  : "1",
+        "name": "Marriott",
+        "external": {
+            "domik"  : "1",
+            "strana" : "s1"
+        }
+    },
+    
+    
+    
+    "2" : {
+        "id"  : "2",
+        "name": "Courtyard",
+        "external": {
+            "domik"  : "2",
+            "strana" : "s2"
+        }
+    },
+    "3" : {
+        "id"  : "3",
+        "name": "Sheraton",
+        "external": {
+            "domik"  : "3",
+            "strana" : "s3"
+        }
+    },
+    "4" : {
+        "id"  : "4",
+        "name": "Westin",
+        "external": {
+            "domik"  : "4",
+            "strana" : "s4"
+        }
+    },
+    "5" : {
+        "id"  : "5",
+        "name": "SpringHill Suites",
+        "external": {
+            "domik"  : "5",
+            "strana" : "s5"
+        }
+    }
+}

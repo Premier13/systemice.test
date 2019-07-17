@@ -1,0 +1,172 @@
+{
+    "1" : {
+        "id"  : "1",
+        "hotelId" : "1",
+        "name": "Marriott economy",
+        "external": {
+            "domik"  : "1",
+            "strana" : "economy"
+        }
+    },
+    "2" : {
+        "id"  : "2",
+        "hotelId" : "1",
+        "name": "Marriott standard",
+        "external": {
+            "domik"  : "2",
+            "strana" : "standard"
+        }
+    },
+    "3" : {
+        "id"  : "3",
+        "hotelId" : "1",
+        "name": "Marriott business",
+        "external": {
+            "domik"  : "3",
+            "strana" : "business"
+        }
+    },
+    "4" : {
+        "id"  : "4",
+        "hotelId" : "1",
+        "name": "Marriott deluxe",
+        "external": {
+            "domik"  : "4",
+            "strana" : "deluxe"
+        }
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    "5" : {
+        "id"  : "5",
+        "hotelId" : "2",
+        "name": "Courtyard dormitory12",
+        "external": {
+            "domik"  : "5",
+            "strana" : "dormitory12"
+        }
+    },
+    "6" : {
+        "id"  : "6",
+        "hotelId" : "2",
+        "name": "Courtyard dormitory8",
+        "external": {
+            "domik"  : "6",
+            "strana" : "dormitory8"
+        }
+    },
+    "7" : {
+        "id"  : "7",
+        "hotelId" : "2",
+        "name": "Courtyard dormitory4",
+        "external": {
+            "domik"  : "7",
+            "strana" : "dormitory4"
+        }
+    },
+    "8" : {
+        "id"  : "8",
+        "hotelId" : "2",
+        "name": "Courtyard 1bedroom",
+        "external": {
+            "domik"  : "8",
+            "strana" : "1bedroom"
+        }
+    },
+    "9" : {
+        "id"  : "9",
+        "hotelId" : "2",
+        "name": "Courtyard 2bedroom",
+        "external": {
+            "domik"  : "9",
+            "strana" : "2bedroom"
+        }
+    },
+    
+    
+    
+    
+    
+    "10" : {
+        "id"  : "10",
+        "hotelId" : "3",
+        "name": "Sheraton standard",
+        "external": {
+            "domik"  : "10",
+            "strana" : "standard"
+        }
+    },
+    "11" : {
+        "id"  : "11",
+        "hotelId" : "3",
+        "name": "Sheraton economy",
+        "external": {
+            "domik"  : "11",
+            "strana" : "economy"
+        }
+    },
+    "12" : {
+        "id"  : "12",
+        "hotelId" : "3",
+        "name": "Sheraton business",
+        "external": {
+            "domik"  : "12",
+            "strana" : "business"
+        }
+    },
+    "13" : {
+        "id"  : "13",
+        "hotelId" : "3",
+        "name": "Sheraton deluxe",
+        "external": {
+            "domik"  : "13",
+            "strana" : "deluxe"
+        }
+    },
+    "14" : {
+        "id"  : "14",
+        "hotelId" : "3",
+        "name": "Sheraton president",
+        "external": {
+            "domik"  : "14",
+            "strana" : "president"
+        }
+    },
+    
+    
+    
+    
+    "15" : {
+        "id"  : "15",
+        "hotelId" : "4",
+        "name": "Westin business",
+        "external": {
+            "domik"  : null,
+            "strana" : "business"
+        }
+    },
+    "16" : {
+        "id"  : "16",
+        "hotelId" : "4",
+        "name": "Westin deluxe",
+        "external": {
+            "domik"  : null,
+            "strana" : "deluxe"
+        }
+    },
+    "17" : {
+        "id"  : "17",
+        "hotelId" : "4",
+        "name": "Westin president",
+        "external": {
+            "domik"  : null,
+            "strana" : "president"
+        }
+    }
+}
